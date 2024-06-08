@@ -19,6 +19,3 @@
 [submodule "njs"]
 	path = njs
 	url = https://github.com/nginx/njs.git
-[submodule "headers-more-nginx"]
-	path = headers-more-nginx
-	url = https://github.com/openresty/headers-more-nginx-module.git
